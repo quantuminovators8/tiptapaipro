@@ -1,0 +1,5 @@
+{
+  "name": "AI Rich Text Editor",
+  "description": "A production-ready, npm-publishable AI-powered WYSIWYG editor built with Tiptap, React, and Tailwind CSS 4.",
+  "requestFramePermissions": []
+}
